@@ -5,6 +5,8 @@ This is a weather app made using the OpenWeatherMap API and Html, Css, JS.
 <br>
 <strong>##Weather App</strong>
 
+https://dipak491.github.io/Weather-App/
+
 # TECHNOLOGIES USED 📌
 
 ## Front End 📫
